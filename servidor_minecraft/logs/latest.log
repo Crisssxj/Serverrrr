@@ -438,3 +438,4 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [02:49:50] [Server thread/INFO]: Criss_17 joined the game
 [02:49:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
 [02:49:57] [Server thread/WARN]: UUID of added entity already exists: class_4466['Bee'/448, l='ServerLevel[world]', x=-607.65, y=70.45, z=-522.65]
+[03:10:35] [Server thread/INFO]: [Criss_17: Gave 20 [Lantern] to Criss_17]
